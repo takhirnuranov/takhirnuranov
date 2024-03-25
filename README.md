@@ -1,4 +1,4 @@
-Hi 👋, I'm Ayku
+Hi 👋, I'm Takhir 
 ==================================
 
 <a href="https://www.github.com/takhirnuranov" target="_blank" rel="noreferrer"><img
